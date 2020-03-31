@@ -7,6 +7,7 @@ RUN apt-get update; apt-get --yes upgrade; apt-get --yes install \
     apt-transport-https \
     ca-certificates \
     curl \
+    git \
     gnupg2 \
     default-jre \
     dumb-init \
